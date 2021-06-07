@@ -1,0 +1,22 @@
+body
+{
+    background-color : #808080
+}
+
+p
+{
+    color:red
+}
+
+h1
+{
+    text-align: center;
+}
+
+.grid
+{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content:  space-evenly;
+    
+}
